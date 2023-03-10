@@ -1,0 +1,12 @@
+1) SQL
+1) 
+2) You need to check the input Number to SQL file
+3) If not exists throw error
+
+
+
+
+2) Train model open CV
+---> OUTPUT-> FILE-> LISCENSE PLATE NUMBER -> INSERT INTO sql database -> GEnerate BILL -> delete from sql database
+
+
